@@ -1,0 +1,5 @@
+email_service/base/__pycache__
+email_service/base/migrations/__pycache__
+email_service/email_service/__pycache__
+env
+
